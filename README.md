@@ -23,7 +23,7 @@ Also, you can find it here: https://en.wikipedia.org/wiki/List_of_largest_compan
 - Jupyter Notebook
 
 ## Acknowledgements
-- The project is following [this Udemy](https://www.youtube.com/watch?v=eoJjtJfuUqE)
+- The project is following [this Udemy]([https://www.youtube.com/watch?v=eoJjtJfuUqE](https://www.udemy.com/course/the-python-mega-course/))
 - The beautiful picture is made by [noaa](https://unsplash.com/@noaa)
 
 
