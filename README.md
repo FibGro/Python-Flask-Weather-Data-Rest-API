@@ -1,6 +1,6 @@
 # Building Rest API of Historical Weather Data Using Flask
 
-![Example screenshot](./unsplash.jpg)
+![Example screenshot](./noaa-ZVhm6rEKEX8-unsplash.jpg)
 
 ## Table of Contents
 * [General Information](#general-information)
