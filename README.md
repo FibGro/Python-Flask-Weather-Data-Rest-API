@@ -11,12 +11,12 @@
 
 ## General Information
 This project involves building the REST API from historical data from the Weather Station in Europe. 
-We will utilize the Flask library using VS code. In this project, we will only use the `method = get` to send the request. 
+We will utilize the Flask library using VS code. In this project, we will only use the `method = get`. 
 
 ## Dataset Information
 
 The dataset was provided in .txt files, containing the weather information of stations located in Europe from 1900 to 2000. 
-Also, you can find it here: https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
+Also, you can find it here: http://www.ecad.eu
 
 ## Technologies Used
 - Visual Code
